@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+  color: #C7B011;
+  font-size: 100px;
+}
+
+.sidebar {
+  color: #C7B011;
+  float: right;
+  height: 30px;
+}
+
+p {
+  color: #C7B011;
+  width: 300px;
+  float: left;
+}
