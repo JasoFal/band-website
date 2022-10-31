@@ -9,13 +9,22 @@ h1 {
 }
 
 .sidebar {
-  color: #C7B011;
+  color: #C90016;
   float: right;
-  height: 30px;
+  width: 30%;
+  background-color: #C7B011;
+  margin-bottom: 150px;
+  border: solid #C7B011;
+  padding: 20px;
+  border-width: 20px;
 }
 
 p {
-  color: #C7B011;
+  color: #c71111;
   width: 300px;
   float: left;
+}
+
+img {
+  padding: 25px;
 }
