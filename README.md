@@ -11,4 +11,4 @@
 
 ## Description
 
-_A student made project website for the band Aether Realm in order to demonstrate knowledge of CSS floats.
+_A student made project website for the band Aether Realm in order to demonstrate knowledge of CSS floats._
